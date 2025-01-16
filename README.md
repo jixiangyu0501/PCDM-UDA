@@ -13,15 +13,4 @@ gurobipy = 9.5.0
 
 Cite
 ---
-@article{PCDMUDA,
-title = {Pseudo-class distribution guided multi-view unsupervised domain adaptation for hyperspectral image classification},
-journal = {International Journal of Applied Earth Observation and Geoinformation},
-volume = {136},
-pages = {104356},
-year = {2025},
-issn = {1569-8432},
-doi = {https://doi.org/10.1016/j.jag.2025.104356},
-url = {https://www.sciencedirect.com/science/article/pii/S1569843225000032},
-author = {Jingpeng Gao and Xiangyu Ji and Geng Chen and Yuhang Huang and Fang Ye},
-keywords = {Cross-scene, Unsupervised domain adaptation, Pseudo-class distribution, Phase information, Hyperspectral image classification}
-}
+Jingpeng Gao, Xiangyu Ji, Geng Chen, Yuhang Huang, Fang Ye, Pseudo-class distribution guided multi-view unsupervised domain adaptation for hyperspectral image classification, International Journal of Applied Earth Observation and Geoinformation, Volume 136, 2025, 104356, ISSN 1569-8432, https://doi.org/10.1016/j.jag.2025.104356.
